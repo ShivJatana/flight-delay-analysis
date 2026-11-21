@@ -1,5 +1,7 @@
 # Flight Delay Analysis: What Really Makes Flights Late?
 
+![Tools: SQL + Python tests](https://img.shields.io/badge/Tools-SQL%20%2B%20Python%20tests-1F3A5F?style=flat-square) ![Domain: Aviation](https://img.shields.io/badge/Domain-Aviation-4A5568?style=flat-square) ![Data: Public (BTS)](https://img.shields.io/badge/Data-Public%20%28BTS%29-lightgrey?style=flat-square) ![Status: Results pending](https://img.shields.io/badge/Status-Results%20pending-orange?style=flat-square)
+
 **Using the US government's public flight-by-flight on-time data to measure delays by airline, airport, time of day and cause, and to show how one late aircraft can cascade into a day of delays.**
 
 Uses **real, public data** from the US Bureau of Transportation Statistics (BTS). As a flight attendant, I work on the operational side of on-time performance: turnarounds, crew connections and the knock-on effect of a late inbound aircraft. This project quantifies those patterns.
