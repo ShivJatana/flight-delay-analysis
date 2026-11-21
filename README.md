@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Analysis: What Really Makes Flights Late?
+# Flight Delay Analysis: What Really Makes Flights Late?
 
 **Using the US government's public flight-by-flight on-time data to measure delays by airline, airport, time of day and cause, and to show how one late aircraft can cascade into a day of delays.**
 
